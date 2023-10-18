@@ -1,0 +1,2049 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\RestaurantManagementSystem.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RestaurantManagementSystem.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\css\\atlantis.css",
+      "PackagePath": "staticwebassets\\assets\\css\\atlantis.css"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\css\\atlantis.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\atlantis.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\css\\atlantis.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\atlantis.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\css\\demo.css",
+      "PackagePath": "staticwebassets\\assets\\css\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\css\\fonts.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts.css"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\css\\fonts.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fonts.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\fonts\\flaticon\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\fonts\\flaticon\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\fonts\\flaticon\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\fonts\\flaticon\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\fonts\\flaticon\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\fonts\\flaticon\\flaticon.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\fonts\\flaticon\\flaticon.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon\\flaticon.html"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\fonts\\fontawesome\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\fonts\\fontawesome\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\fonts\\fontawesome\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\simple-line-icons\\Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\fonts\\summernote\\summernote.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\summernote\\summernote.eot"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\fonts\\summernote\\summernote.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\summernote\\summernote.ttf"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\fonts\\summernote\\summernote.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\summernote\\summernote.woff"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\arashmil.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\arashmil.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\bg-404.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-404.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\bg-abstract.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-abstract.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\bg-abstract2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-abstract2.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\blogpost.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blogpost.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\chadengle.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\chadengle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\example1-300x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\example1-300x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\example1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\example1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\example10-300x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\example10-300x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\example10.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\example10.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\example11-300x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\example11-300x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\example11.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\example11.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\example12-300x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\example12-300x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\example12.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\example12.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\example2-300x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\example2-300x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\example2.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\example2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\example3-300x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\example3-300x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\example3.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\example3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\example4-300x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\example4-300x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\example4.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\example4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\example5-300x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\example5-300x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\example5.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\example5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\example6-300x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\example6-300x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\example6.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\example6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\example7-300x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\example7-300x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\example7.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\example7.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\example8-300x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\example8-300x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\example8.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\example8.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\example9-300x300.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\example9-300x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\example9.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\example9.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\logoinvoice.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\logoinvoice.svg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\product1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\product1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\product10.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\product10.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\product11.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\product11.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\product12.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\product12.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\product2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\product2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\product3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\product3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\product4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\product4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\product5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\product5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\product6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\product6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\product7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\product7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\examples\\product8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\examples\\product8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ad.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ad.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ae.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ae.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\af.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\af.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ag.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ag.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ai.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ai.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\al.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\al.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\am.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\am.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\an.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\an.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ao.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ao.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ar.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ar.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\as.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\as.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\at.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\at.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\au.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\au.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\aw.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\aw.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ax.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ax.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\az.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\az.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ba.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ba.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\bb.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\bb.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\bd.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\bd.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\be.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\be.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\bf.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\bf.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\bh.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\bh.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\bi.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\bi.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\bj.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\bj.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\bm.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\bm.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\bn.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\bn.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\bo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\bo.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\br.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\br.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\bs.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\bs.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\bt.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\bt.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\bv.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\bv.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\bw.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\bw.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\by.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\by.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\bz.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\bz.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ca.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ca.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\catalonia.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\catalonia.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\cc.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\cc.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\cd.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\cd.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\cf.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\cf.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\cg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\cg.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ch.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ch.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ci.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ci.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ck.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ck.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\cl.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\cl.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\cm.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\cm.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\cn.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\cn.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\co.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\co.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\cr.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\cr.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\cs.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\cs.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\cu.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\cu.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\cv.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\cv.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\cx.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\cx.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\cy.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\cy.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\cz.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\cz.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\de.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\de.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\dj.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\dj.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\dk.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\dk.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\dm.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\dm.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\do.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\do.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\dz.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\dz.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ec.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ec.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ee.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ee.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\eg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\eg.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\eh.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\eh.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\england.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\england.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\er.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\er.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\es.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\es.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\et.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\et.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\europeanunion.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\europeanunion.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\fam.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\fam.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\fi.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\fi.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\fj.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\fj.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\fk.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\fk.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\fm.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\fm.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\fo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\fo.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\fr.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\fr.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ga.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ga.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\gb.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\gb.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\gd.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\gd.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ge.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ge.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\gf.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\gf.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\gh.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\gh.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\gi.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\gi.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\gl.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\gl.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\gm.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\gm.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\gn.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\gn.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\gp.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\gp.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\gq.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\gq.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\gr.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\gr.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\gs.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\gs.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\gt.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\gt.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\gu.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\gu.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\gw.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\gw.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\gy.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\gy.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\hk.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\hk.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\hm.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\hm.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\hn.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\hn.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\hr.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\hr.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ht.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ht.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\hu.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\hu.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\id.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\id.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ie.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ie.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\il.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\il.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\in.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\in.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\io.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\io.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\iq.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\iq.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ir.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ir.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\is.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\is.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\it.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\it.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\jm.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\jm.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\jo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\jo.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\jp.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\jp.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ke.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ke.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\kg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\kg.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\kh.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\kh.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ki.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ki.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\km.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\km.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\kn.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\kn.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\kp.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\kp.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\kr.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\kr.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\kw.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\kw.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ky.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ky.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\kz.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\kz.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\la.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\la.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\lb.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\lb.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\lc.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\lc.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\li.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\li.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\lk.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\lk.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\lr.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\lr.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ls.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ls.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\lt.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\lt.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\lu.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\lu.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\lv.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\lv.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ly.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ly.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ma.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ma.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\mc.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\mc.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\md.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\md.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\me.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\me.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\mg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\mg.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\mh.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\mh.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\mk.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\mk.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ml.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ml.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\mm.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\mm.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\mn.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\mn.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\mo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\mo.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\mp.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\mp.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\mq.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\mq.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\mr.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\mr.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ms.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ms.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\mt.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\mt.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\mu.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\mu.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\mv.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\mv.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\mw.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\mw.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\mx.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\mx.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\my.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\my.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\mz.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\mz.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\na.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\na.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\nc.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\nc.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ne.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ne.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\nf.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\nf.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ng.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ng.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ni.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ni.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\nl.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\nl.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\no.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\no.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\np.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\np.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\nr.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\nr.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\nu.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\nu.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\nz.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\nz.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\om.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\om.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\pa.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\pa.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\pe.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\pe.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\pf.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\pf.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\pg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\pg.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ph.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ph.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\pk.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\pk.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\pl.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\pl.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\pm.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\pm.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\pn.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\pn.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\pr.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\pr.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ps.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ps.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\pt.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\pt.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\pw.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\pw.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\py.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\py.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\qa.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\qa.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\re.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\re.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\readme.txt",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ro.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ro.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\rs.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\rs.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ru.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ru.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\rw.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\rw.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\sa.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\sa.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\sb.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\sb.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\sc.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\sc.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\scotland.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\scotland.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\sd.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\sd.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\se.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\se.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\sg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\sg.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\sh.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\sh.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\si.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\si.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\sj.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\sj.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\sk.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\sk.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\sl.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\sl.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\sm.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\sm.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\sn.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\sn.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\so.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\so.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\sr.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\sr.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\st.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\st.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\sv.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\sv.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\sy.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\sy.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\sz.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\sz.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\tc.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\tc.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\td.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\td.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\tf.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\tf.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\tg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\tg.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\th.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\th.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\tj.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\tj.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\tk.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\tk.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\tl.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\tl.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\tm.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\tm.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\tn.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\tn.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\to.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\to.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\tr.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\tr.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\tt.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\tt.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\tv.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\tv.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\tw.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\tw.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\tz.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\tz.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ua.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ua.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ug.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ug.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\um.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\um.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\us.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\us.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\uy.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\uy.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\uz.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\uz.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\va.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\va.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\vc.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\vc.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ve.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ve.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\vg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\vg.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\vi.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\vi.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\vn.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\vn.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\vu.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\vu.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\wales.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\wales.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\wf.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\wf.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ws.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ws.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\ye.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\ye.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\yt.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\yt.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\za.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\za.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\zm.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\zm.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\flags\\zw.png",
+      "PackagePath": "staticwebassets\\assets\\img\\flags\\zw.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\icon.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\icon.ico"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\icon.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\img-shadow.gvdesign",
+      "PackagePath": "staticwebassets\\assets\\img\\img-shadow.gvdesign"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\img-shadow.png",
+      "PackagePath": "staticwebassets\\assets\\img\\img-shadow.png"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\jm_denis.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\jm_denis.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\logo2.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logo2.svg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\logoalternatif.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logoalternatif.svg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\logoproduct.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logoproduct.svg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\logoproduct2.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logoproduct2.svg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\logoproduct3.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logoproduct3.svg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\mlane.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\mlane.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\productimg\\product1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\productimg\\product1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\productimg\\product2.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\productimg\\product2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\productimg\\product3.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\productimg\\product3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\productimg\\product4.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\productimg\\product4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\productimg\\product5.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\productimg\\product5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\productimg\\product6.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\productimg\\product6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\productimg\\product7.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\productimg\\product7.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\productimg\\product8.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\productimg\\product8.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\productimg\\product9.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\productimg\\product9.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\profile.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\profile2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profile2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\sauro.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\sauro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\talha.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\talha.jpg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\img\\visa.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\visa.svg"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\atlantis.js",
+      "PackagePath": "staticwebassets\\assets\\js\\atlantis.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\atlantis.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\atlantis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\atlantis2.js",
+      "PackagePath": "staticwebassets\\assets\\js\\atlantis2.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\core\\jquery.3.2.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\jquery.3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\demo.js",
+      "PackagePath": "staticwebassets\\assets\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\bootstrap-notify\\bootstrap-notify.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\bootstrap-notify\\bootstrap-notify.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\chart-circle\\circles.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\chart-circle\\circles.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\chart.js\\chart.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\chart.js\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\datatables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\datatables\\datatables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jquery-scrollbar\\jquery.scrollbar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jquery-scrollbar\\jquery.scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jquery-ui-1.12.1.custom\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jquery-ui-1.12.1.custom\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jquery-ui-touch-punch\\jquery.ui.touch-punch.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jquery-ui-touch-punch\\jquery.ui.touch-punch.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jquery.sparkline\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jquery.sparkline\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jqvmap\\jquery.vmap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jqvmap\\jquery.vmap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jqvmap\\maps\\continents\\jquery.vmap.africa.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jqvmap\\maps\\continents\\jquery.vmap.africa.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jqvmap\\maps\\continents\\jquery.vmap.asia.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jqvmap\\maps\\continents\\jquery.vmap.asia.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jqvmap\\maps\\continents\\jquery.vmap.australia.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jqvmap\\maps\\continents\\jquery.vmap.australia.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jqvmap\\maps\\continents\\jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jqvmap\\maps\\continents\\jquery.vmap.europe.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jqvmap\\maps\\continents\\jquery.vmap.north-america.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jqvmap\\maps\\continents\\jquery.vmap.north-america.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jqvmap\\maps\\continents\\jquery.vmap.south-america.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jqvmap\\maps\\continents\\jquery.vmap.south-america.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.algeria.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.algeria.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.argentina.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.argentina.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.brazil.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.brazil.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.canada.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.canada.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.croatia.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.croatia.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.europe.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.france.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.france.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.germany.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.germany.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.greece.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.greece.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.indonesia.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.indonesia.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.iran.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.iran.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.iraq.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.iraq.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.new_regions_france.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.new_regions_france.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.russia.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.russia.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.serbia.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.serbia.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.tunisia.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.tunisia.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.turkey.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.turkey.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.ukraine.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.ukraine.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.usa.counties.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.usa.counties.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.usa.districts.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.usa.districts.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.usa.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.usa.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.world.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\jqvmap\\maps\\jquery.vmap.world.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\sweetalert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\sweetalert\\sweetalert.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\plugin\\webfont\\webfont.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin\\webfont\\webfont.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\setting-demo.js",
+      "PackagePath": "staticwebassets\\assets\\js\\setting-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\js\\setting-demo2.js",
+      "PackagePath": "staticwebassets\\assets\\js\\setting-demo2.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\_background.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\_components.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\_components.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\_font-awesome.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\_font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\_layouts-colors.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\_layouts-colors.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\_layouts.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\_opacity.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\_opacity.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\_outlinefocus.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\_outlinefocus.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\_plugins.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\_plugins.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\_responsive-horizontal.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\_responsive-horizontal.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\_responsive.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\components\\_activityfeed.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\components\\_activityfeed.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\components\\_alerts.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\components\\_alerts.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\components\\_avatars.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\components\\_avatars.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\components\\_charts.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\components\\_charts.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\components\\_colorinputs.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\components\\_colorinputs.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\components\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\components\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\components\\_gutters.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\components\\_gutters.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\components\\_imagecheck.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\components\\_imagecheck.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\components\\_inputs.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\components\\_inputs.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\components\\_listgroup.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\components\\_listgroup.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\components\\_loader.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\components\\_loader.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\components\\_maps.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\components\\_maps.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\components\\_modals.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\components\\_modals.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\components\\_navbars.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\components\\_navbars.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\components\\_navsearch.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\components\\_navsearch.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\components\\_navtabs.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\components\\_navtabs.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\components\\_paginations.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\components\\_paginations.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\components\\_popovers.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\components\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\components\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\components\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\components\\_selectgroup.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\components\\_selectgroup.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\components\\_sliders.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\components\\_sliders.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\components\\_stamps.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\components\\_stamps.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\components\\_timeline.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\components\\_timeline.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\plugins\\_animate.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\plugins\\_animate.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\plugins\\_datatables.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\plugins\\_datatables.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\plugins\\_jqueryscrollbar.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\plugins\\_jqueryscrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\plugins\\_jqueryui.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\plugins\\_jqueryui.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\assets\\sass\\atlantis\\plugins\\_sweetalert.scss",
+      "PackagePath": "staticwebassets\\assets\\sass\\atlantis\\plugins\\_sweetalert.scss"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.RestaurantManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.RestaurantManagementSystem.props",
+      "PackagePath": "build\\RestaurantManagementSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.RestaurantManagementSystem.props",
+      "PackagePath": "buildMultiTargeting\\RestaurantManagementSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.RestaurantManagementSystem.props",
+      "PackagePath": "buildTransitive\\RestaurantManagementSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
