@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\RestaurantManagementSystem.csproj": {}
+    "C:\\Users\\elsha\\OneDrive\\Desktop\\RestaurantManagementSystem\\RestaurantManagementSystem\\RestaurantManagementSystem\\RestaurantManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\RestaurantManagementSystem.csproj": {
+    "C:\\Users\\elsha\\OneDrive\\Desktop\\RestaurantManagementSystem\\RestaurantManagementSystem\\RestaurantManagementSystem\\RestaurantManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\RestaurantManagementSystem.csproj",
+        "projectUniqueName": "C:\\Users\\elsha\\OneDrive\\Desktop\\RestaurantManagementSystem\\RestaurantManagementSystem\\RestaurantManagementSystem\\RestaurantManagementSystem.csproj",
         "projectName": "RestaurantManagementSystem",
-        "projectPath": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\RestaurantManagementSystem.csproj",
+        "projectPath": "C:\\Users\\elsha\\OneDrive\\Desktop\\RestaurantManagementSystem\\RestaurantManagementSystem\\RestaurantManagementSystem\\RestaurantManagementSystem.csproj",
         "packagesPath": "C:\\Users\\elsha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\RestaurantManagementSystem\\RestaurantManagementSystem\\obj\\",
+        "outputPath": "C:\\Users\\elsha\\OneDrive\\Desktop\\RestaurantManagementSystem\\RestaurantManagementSystem\\RestaurantManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elsha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.12, )"
