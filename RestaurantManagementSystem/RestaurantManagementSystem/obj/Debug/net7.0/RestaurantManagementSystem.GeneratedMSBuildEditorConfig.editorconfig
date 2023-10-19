@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\elsha\OneDrive\Desktop\RestaurantManagementSystem\RestaurantManagementSystem\RestaurantManagementSystem
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/elsha/OneDrive/Desktop/RestaurantManagementSystem/RestaurantManagementSystem/RestaurantManagementSystem/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elsha/OneDrive/Desktop/RestaurantManagementSystem/RestaurantManagementSystem/RestaurantManagementSystem/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/elsha/OneDrive/Desktop/RestaurantManagementSystem/RestaurantManagementSystem/RestaurantManagementSystem/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
