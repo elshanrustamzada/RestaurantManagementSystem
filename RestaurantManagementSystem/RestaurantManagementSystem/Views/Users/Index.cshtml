@@ -1,0 +1,98 @@
+﻿@model List<UserVM>
+
+
+
+<div class="col-md-12 my-4">
+    <div class="card shadow">
+        <div class="card-body">
+            <div class="d-flex justify-content-between">
+                <h5 class="card-title">Users</h5>
+                <a class="btn btn-primary text-white mb-3" asp-action="Create">Create</a>
+            </div>
+
+            <table id="example" class="table table-striped table-bordered" style="width:100%">
+                <thead>
+                    <tr>
+                        <th class="text-dark font-weight-bold">Fullname</th>
+                        <th class="text-dark font-weight-bold">Username</th>
+                        <th class="text-dark font-weight-bold">Email</th>
+                        <th class="text-dark font-weight-bold">Role</th>
+                        <th class="text-dark font-weight-bold">Status</th>
+                        <th class="text-dark font-weight-bold" style="text-align:end">Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (UserVM item in Model)
+                    {
+                        <tr>
+                            <td>@item.Fullname</td>
+                            <td>@item.Username</td>
+                            <td>@item.Email</td>
+                            <td>@item.Role</td>
+                            <td>
+                                @if (!item.IsDeactive)
+                                {
+                                    <span class="badge badge-pill badge-success text-white">Aktiv</span>
+                                }
+                                else
+                                {
+                                    <span class="badge badge-pill badge-danger">Passiv</span>
+                                }
+                            </td>
+                            <td class="d-flex justify-content-end">
+                                <a class="btn btn-warning text-white mr-2" asp-action="ResetPassword" asp-route-id="@item.Id">Reset Password</a>
+                                <a class="btn btn-info text-white mr-2" asp-action="Update" asp-route-id="@item.Id">Update</a>
+                                @if (item.IsDeactive)
+                                {
+                                    <a class="btn btn-success text-white mr-2" asp-action="Activity" asp-route-id="@item.Id" style="width:112px">Activited</a>
+                                }
+                                else
+                                {
+                                    <a class="btn btn-danger text-white mr-2" asp-action="Activity" asp-route-id="@item.Id" style="width:112px">DeActivited</a>
+                                }
+                            </td>
+
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+
+
+@section Css{
+    <link rel="" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+    <link rel="" href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap.min.css" />
+    <link rel="" href="https://cdn.datatables.net/buttons/2.4.2/css/buttons.bootstrap.min.css" />
+}
+@section Scripts{
+    <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+    <script src=" https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script src="    https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap.min.js"></script>
+    <script src="  https://cdn.datatables.net/buttons/2.4.2/js/dataTables.buttons.min.js"></script>
+    <script src=" https://cdn.datatables.net/buttons/2.4.2/js/buttons.bootstrap.min.js"></script>
+    <script src=" https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+    <script src=" https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
+    <script src=" https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
+    <script src="  https://cdn.datatables.net/buttons/2.4.2/js/buttons.html5.min.js"></script>
+    <script src=" https://cdn.datatables.net/buttons/2.4.2/js/buttons.print.min.js"></script>
+    <script src="   https://cdn.datatables.net/buttons/2.4.2/js/buttons.colVis.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            var table = $('#example').DataTable({
+                lengthChange: false,
+                buttons: ['copy', 'excel', 'pdf', 'colvis']
+            });
+
+            table.buttons().container()
+                .appendTo('#example_wrapper .col-sm-6:eq(0)');
+        });
+    </script>
+    <partial name="_ValidationScriptsPartial" />
+}
+
+
+
+

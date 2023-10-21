@@ -35,9 +35,9 @@
         <div class="login_wrapper">
             <div class="animate form login_form">
                 <section class="login_content">
-                    <div asp-validation-summary="ModelOnly" style="color:red"></div>
                     <form method="post">
                         <h1>Restoran Sistemi</h1>
+                        <div asp-validation-summary="ModelOnly" style="color:red"></div>
                         <div>
                             <input asp-for="Username" class="form-control" placeholder="İstifadəçi adı" required="" />
                             <span asp-validation-for="Username" style="color:red"></span>
@@ -50,8 +50,7 @@
                         <div style="display:flex;justify-content:space-between">
                             <div class="login-toggle-btn">
                                 <input asp-for="IsRemember">
-                                <label for="remember">Yadda saxla</label>
-
+                                <label for="remember">Xatırla məni</label>
                             </div>
                             <button class="btn btn-default submit" type="submit">Daxil ol</button>
                         </div>
