@@ -20,12 +20,24 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/elsha/OneDrive/Desktop/RestaurantManagementSystem/RestaurantManagementSystem/RestaurantManagementSystem/Views/Benefits/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVuZWZpdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/elsha/OneDrive/Desktop/RestaurantManagementSystem/RestaurantManagementSystem/RestaurantManagementSystem/Views/Benefits/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVuZWZpdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/elsha/OneDrive/Desktop/RestaurantManagementSystem/RestaurantManagementSystem/RestaurantManagementSystem/Views/Budget/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVkZ2V0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elsha/OneDrive/Desktop/RestaurantManagementSystem/RestaurantManagementSystem/RestaurantManagementSystem/Views/Costs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29zdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elsha/OneDrive/Desktop/RestaurantManagementSystem/RestaurantManagementSystem/RestaurantManagementSystem/Views/Costs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29zdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/elsha/OneDrive/Desktop/RestaurantManagementSystem/RestaurantManagementSystem/RestaurantManagementSystem/Views/Dashboard/Index.cshtml]
