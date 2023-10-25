@@ -23,11 +23,6 @@ namespace RestaurantManagementSystem.Controllers
             _signInManager = signInManager;
         }
 
-        public IActionResult Index()
-        {
-            return View();
-        }
-
         #region Login
         public IActionResult Login()
         {
@@ -37,15 +32,18 @@ namespace RestaurantManagementSystem.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Login(LoginVM loginVM)
         {
-            AppUser? user = await _userManager.FindByNameAsync(loginVM.Username);
+            if (!ModelState.IsValid)
+                return View();
+
+            AppUser user = await _userManager.FindByNameAsync(loginVM.Username);
             if (user == null)
             {
-                ModelState.AddModelError("", "İstifadəçi adı və ya şifrə yanlışdır!");
+                ModelState.AddModelError("name", "İstifadəçi adı və ya şifrə yanlışdır!");
                 return View();
             }
             if (user.IsDeactive)
             {
-                ModelState.AddModelError("", "İstifadəçi adı tapılmadı!");
+                ModelState.AddModelError("AllName", "İstifadəçi adı tapılmadı!");
                 return View();
             }
             Microsoft.AspNetCore.Identity.SignInResult signInResult = await _signInManager.PasswordSignInAsync(user, loginVM.Password, loginVM.IsRemember, true);

@@ -26,18 +26,18 @@ namespace RestaurantManagementSystem.Controllers
         #region Index
         public async Task<IActionResult> Index()
         {
-            List<AppUser> users = await _userManager.Users.ToListAsync();
+            List<AppUser> dbUsers = await _userManager.Users.ToListAsync();
             List<UserVM> userVMs = new List<UserVM>();
-            foreach (AppUser user in users)
+            foreach (AppUser dbUser in dbUsers)
             {
                 UserVM userVM = new UserVM
                 {
-                    Id = user.Id,
-                    Fullname = user.Name + " " + user.Surname,
-                    Username = user.UserName,
-                    Email = user.Email,
-                    IsDeactive = user.IsDeactive,
-                    Role = (await _userManager.GetRolesAsync(user))[0]
+                    Id = dbUser.Id,
+                    Fullname = dbUser.Name + " " + dbUser.Surname,
+                    Username = dbUser.UserName,
+                    Email = dbUser.Email,
+                    IsDeactive = dbUser.IsDeactive,
+                    Role = (await _userManager.GetRolesAsync(dbUser))[0]
                 };
 
                 userVMs.Add(userVM);

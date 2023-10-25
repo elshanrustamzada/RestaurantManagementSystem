@@ -15,10 +15,8 @@ namespace RestaurantManagementSystem.Controllers
         {
             _db = db;
         }
-        public async Task<IActionResult> Index(int page = 1)
+        public async Task<IActionResult> Index()
         {
-            decimal take = 3;
-            ViewBag.PageCount = Math.Ceiling((await _db.Costs.CountAsync() / take));
             List<Cost> costs = await _db.Costs.OrderByDescending(x => x.Id).ToListAsync();
             return View(costs);
         }

@@ -35,16 +35,16 @@
         <div class="login_wrapper">
             <div class="animate form login_form">
                 <section class="login_content">
+                    <div asp-validation-summary="ModelOnly" style="color:red"></div>
                     <form method="post">
-                        <h1>Restoran Sistemi</h1>
-                        <div asp-validation-summary="ModelOnly" style="color:red"></div>
+                        <h1  readonly>Restoran Sistemi</h1>
                         <div>
-                            <input asp-for="Username" class="form-control" placeholder="İstifadəçi adı" required="" />
-                            <span asp-validation-for="Username" style="color:red"></span>
+                            <input asp-for="Username" class="form-control" placeholder="İstifadəçi adı" />
+                            <span asp-validation-for="Username" style="color:red;margin-right:250px"></span>
                         </div>
                         <div>
-                            <input asp-for="Password" class="form-control" placeholder="Şifrə" required="" />
-                            <span asp-validation-for="Password" style="color:red"></span>
+                            <input asp-for="Password" class="form-control" placeholder="Şifrə" />
+                            <span asp-validation-for="Password" style="color:red;margin-right:250px"></span>
                         </div>
 
                         <div style="display:flex;justify-content:space-between">

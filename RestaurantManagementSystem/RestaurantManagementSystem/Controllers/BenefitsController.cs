@@ -24,7 +24,6 @@ namespace RestaurantManagementSystem.Controllers
         }
         public IActionResult Create()
         {
-
             return View();
         }
         [HttpPost]

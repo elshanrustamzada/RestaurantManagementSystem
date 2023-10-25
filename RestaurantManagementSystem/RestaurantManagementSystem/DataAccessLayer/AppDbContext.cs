@@ -13,6 +13,7 @@ namespace RestaurantManagementSystem.DataAccessLayer
         public DbSet<Benefit> Benefits { get; set; }
         public DbSet<Budget> Budgets { get; set; }
         public DbSet<Cost> Costs { get; set; }
+        public DbSet<Employer> Employers { get; set; }
 
 
     }
