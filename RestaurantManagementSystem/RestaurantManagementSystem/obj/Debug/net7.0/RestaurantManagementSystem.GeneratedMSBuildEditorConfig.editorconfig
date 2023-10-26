@@ -44,8 +44,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/elsha/OneDrive/Desktop/RestaurantManagementSystem/RestaurantManagementSystem/RestaurantManagementSystem/Views/Employers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/elsha/OneDrive/Desktop/RestaurantManagementSystem/RestaurantManagementSystem/RestaurantManagementSystem/Views/Employers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/elsha/OneDrive/Desktop/RestaurantManagementSystem/RestaurantManagementSystem/RestaurantManagementSystem/Views/Positions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zaXRpb25zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/elsha/OneDrive/Desktop/RestaurantManagementSystem/RestaurantManagementSystem/RestaurantManagementSystem/Views/Shared/Error.cshtml]

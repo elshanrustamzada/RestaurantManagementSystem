@@ -13,7 +13,7 @@ namespace RestaurantManagementSystem.Models
         [Required(ErrorMessage = "Bu xana boş ola bilməz!")]
         public string Email { get; set; }
         [Required(ErrorMessage = "Bu xana boş ola bilməz!")]
-        public string Image { get; set; }
+        public string? Image { get; set; }
         [Required(ErrorMessage = "Bu xana boş ola bilməz!")]
         public long? PhoneNumber { get; set; }
         [Required(ErrorMessage = "Bu xana boş ola bilməz!")]
@@ -22,17 +22,11 @@ namespace RestaurantManagementSystem.Models
         public bool IsDeactive { get; set; }
         [Required(ErrorMessage = "Bu xana boş ola bilməz!")]
         public DateTime? Birthday { get; set; }
-        //public string GetFormattedBirthday()
-        //{
-        //    return Birthday?.ToString("dd:mm:yyyy");
-        //}
-        //public string GetFormattedBirthday()
-        //{
-        //    // "ToShortDateString()" metodu, tarihi kısa tarih biçiminde döndürür (örn. "20.07.1993")
-        //    return Birthday?.ToShortDateString("dd:mm:yyyy");
-        //}
-
-
+        public string GetFormattedBirthday()
+        {
+            // "ToShortDateString()" metodu, tarihi kısa tarih biçiminde döndürür (örn. "20.07.1993")
+            return Birthday?.ToString("dd:mm:yyyy");
+        }
 
         [NotMapped]
         public IFormFile? Photo { get; set; }

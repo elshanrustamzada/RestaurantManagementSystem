@@ -1,0 +1,70 @@
+﻿@model Employer
+<div class="row">
+    <div class="col-md-6">
+        <div class="card mb-4">
+            <div class="card-header d-flex justify-content-between align-items-center">
+                <h5 class="mb-0">İŞÇİ ƏLAVƏ ET</h5>
+
+            </div>
+            <div class="card-body">
+                <form method="post" enctype="multipart/form-data">
+
+
+                    <div class="mb-3 form-group">
+                        <label asp-for="Photo" class="form-label">Şəkil</label>
+                        <input asp-for="Photo" accept="image/*" class="form-control" />
+                        <span asp-validation-for="Photo" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3 form-group">
+                        <label asp-for="Name" class="form-label">Ad</label>
+                        <input asp-for="Name" class="form-control" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3 form-group">
+                        <label asp-for="Email" class="form-label">Email</label>
+                        <input type="email" asp-for="Email" class="form-control" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3 form-group">
+                        <label asp-for="PhoneNumber" class="form-label">Mobil</label>
+                        <input asp-for="PhoneNumber" class="form-control" />
+                        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                    </div>
+
+
+                    <div class="mb-3 form-group">
+                        <label asp-for="Salary" class="form-label">Maaş</label>
+                        <input asp-for="Salary" class="form-control" />
+                        <span asp-validation-for="Salary" class="text-danger"></span>
+
+                    </div>
+                    <div class="mb-3 form-group">
+                        <label asp-for="Birthday" class="form-label">Doğum Tarixi</label>
+                        <input type="date" asp-for="Birthday" class="form-control" />
+                        <span asp-validation-for="Birthday" class="text-danger"></span>
+
+                    </div>
+
+                    <div class="form-group">
+                        <label for="exampleFormControlSelect1">Vəzifə</label>
+                        <select class="form-control" name="CatId">
+                            @foreach (Position cat in ViewBag.Positions)
+                            {
+                                <option value="@cat.Id">@cat.Name</option>
+                            }
+
+                        </select>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary">Əlavə Et</button>
+                    <a asp-action="Index" class="btn btn-danger">GERI</a>
+                </form>
+            </div>
+        </div>
+    </div>
+
+</div>
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
