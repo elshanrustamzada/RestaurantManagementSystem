@@ -47,11 +47,11 @@
                     </div>
 
                     <div class="form-group">
-                        <label for="exampleFormControlSelect1">Vəzifə</label>
-                        <select class="form-control" name="CatId">
-                            @foreach (Position cat in ViewBag.Positions)
+                        <labe>Vəzifə</labe>
+                        <select class="form-control" name="positionId">
+                            @foreach (Position position in ViewBag.Positions)
                             {
-                                <option value="@cat.Id">@cat.Name</option>
+                                <option value="@position.Id">@position.Name</option>
                             }
 
                         </select>

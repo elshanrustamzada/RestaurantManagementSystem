@@ -1,0 +1,69 @@
+﻿@model List<Employer>
+
+
+<div class="x_content">
+
+    <section class="content invoice">
+        <div class="row">
+            <div class="card-header" style="display:flex;justify-content:space-between">
+                <h1>
+                    İşçilər
+                </h1>
+                <div>
+                    <a asp-action="Index" class="btn btn-danger text-white rounded-pill" style="margin-right:10px">GERi</a>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12 table">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Şəkil</th>
+                            <th>Ad Soyad</th>
+                            <th>Doğum Tarixi</th>
+                            <th>Maaş</th>
+                            <th>Mobil</th>
+                            <th>Email</th>
+                            <th>Vəzifə</th>
+                            <th>Status</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (Employer item in Model)
+                        {
+                            <tr>
+                                <td>  <img src="~/images/@item.Image" alt="image" style="width:100px ;height:100px; border-radius:100px" /></td>
+                                <td>@item.Name</td>
+                                <td>@item.Birthday?.ToShortDateString()</td>
+                                <td>@item.Salary AZN</td>
+                                <td>@item.PhoneNumber</td>
+                                <td>@item.Email</td>
+
+                                <td>@item.Position.Name</td>
+                                <td>
+                                    @if (item.IsDeactive)
+                                    {
+                                        <span style="padding:1px 2px; background-color:red;color:white">İşləmir</span>
+                                    }
+                                    else
+                                    {
+                                        <span style="padding:1px 2px; background-color:green;color:white">İşləyir</span>
+                                    }
+                                </td>
+                                <td>
+                                </td>
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+</div>
+
+
+
+
+
