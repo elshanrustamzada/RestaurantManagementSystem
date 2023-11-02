@@ -87,5 +87,30 @@ namespace RestaurantManagementSystem.Controllers
         }
         #endregion
 
+        #region Activity
+        public async Task<IActionResult> Activity(int? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+            Position? dbPosition = await _db.Positions.FirstOrDefaultAsync(x => x.Id == id);
+            if (dbPosition == null)
+            {
+                return BadRequest();
+            }
+            if (dbPosition.IsDeactive)
+            {
+                dbPosition.IsDeactive = false;
+            }
+            else
+            {
+                dbPosition.IsDeactive = true;
+            }
+            await _db.SaveChangesAsync();
+            return RedirectToAction("Index");
+        }
+        #endregion
+
     }
 }
