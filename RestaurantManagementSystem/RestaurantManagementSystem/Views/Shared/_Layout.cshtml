@@ -42,16 +42,25 @@
                     <div class="clearfix"></div>
 
                     <!-- menu profile quick info -->
+                    
                     <div class="profile clearfix">
 
                         <div class="profile_pic">
                             <img src="~/images/img.jpg" alt="..." class="img-circle profile_img">
                         </div>
                         <div class="profile_info">
-                            <h2>Admin</h2>
-                            <span>admin@gmail.com</span>
+                            <h2>@User.Identity.Name</h2>
+                            @if (User.IsInRole("Admin"))
+                            {
+                                <span>admin@gmail.com</span>
+                            }
+                            else
+                            {
+                                <span>member@gmail.com</span>
+                            }
                         </div>
                     </div>
+                  
                     <!-- /menu profile quick info -->
 
                     <br />
@@ -59,20 +68,15 @@
                     <!-- sidebar menu -->
                     <div id="sidebar-menu" class="main_menu_side hidden-print main_menu">
                         <div class="menu_section">
-                            <h3 style="background-color:blue;padding:5px;">Əsas Menyu</h3>
+                            <h3>Əsas Menyu</h3>
                             <ul class="nav side-menu">
                                 <li>
-                                    <a asp-controller="Dashboard" asp-action="Index"><i class="fa fa-home"></i> Əsas Səhifə </a>
+                                    <a asp-controller="Dashboard" asp-action="Index"><i class="fa fa-home"></i>Ana Səhifə</a>
                                 </li>
                             </ul>
                             <ul class="nav side-menu">
                                 <li>
-                                    <a asp-controller="Users" asp-action="Index"><i class="fa fa-group"></i>İstifadəçilər</a>
-                                </li>
-                            </ul>
-                            <ul class="nav side-menu">
-                                <li>
-                                    <a asp-controller="Benefits" asp-action="Index"><i class="fa fa-dollar"></i>Gəlirlər</a>
+                                    <a asp-controller="Users" asp-action="Index"><i class="fa fa-user"></i>İstifadəçilər</a>
                                 </li>
                             </ul>
                             <ul class="nav side-menu">
@@ -82,17 +86,22 @@
                             </ul>
                             <ul class="nav side-menu">
                                 <li>
+                                    <a asp-controller="Benefits" asp-action="Index"><i class="fa fa-dollar"></i>Gəlirlər</a>
+                                </li>
+                            </ul>
+                            <ul class="nav side-menu">
+                                <li>
                                     <a asp-controller="Costs" asp-action="Index"><i class="fa fa-pie-chart"></i>Xərclər</a>
                                 </li>
                             </ul>
                             <ul class="nav side-menu">
                                 <li>
-                                    <a asp-controller="Employers" asp-action="Index"><i class="fa fa-pie-chart"></i>İşçilər</a>
+                                    <a asp-controller="Employers" asp-action="Index"><i class="fa fa-users"></i>İşçilər</a>
                                 </li>
                             </ul>
                             <ul class="nav side-menu">
                                 <li>
-                                    <a asp-controller="Positions" asp-action="Index"><i class="fa fa-pie-chart"></i>Vəzifələr</a>
+                                    <a asp-controller="Positions" asp-action="Index"><i class="fa fa-briefcase"></i>Vəzifələr</a>
                                 </li>
                             </ul>
                         </div>
@@ -154,8 +163,11 @@
             <!-- /page content -->
             <!-- footer content -->
             <footer>
-                <div class="pull-right">
-                    Bootstrap Admin Template by <a href="https://wa.me/994504977785" class="text-danger">Elshan Rustamzada</a>
+                <div>
+                    Contact by  <a href="https://wa.me/994504977785" class="text-danger">Elshan Rustamzada</a>
+                </div>
+                <div>
+                    You can get the project here by  <a href="https://github.com/elshanrustamzada" class="fa fa-github text-white">  GITHUB</a>
                 </div>
                 <div class="clearfix"></div>
             </footer>

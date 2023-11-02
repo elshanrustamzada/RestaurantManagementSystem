@@ -140,10 +140,18 @@ namespace RestaurantManagementSystem.Controllers
         #endregion
 
         #region Detail
-        public async Task<IActionResult> Detail()
+        public async Task<IActionResult> Detail(int? id)
         {
-            List<Employer> employers = await _db.Employers.Include(x => x.Position).ToListAsync();
-            return View(employers);
+            if (id == null)
+            {
+                return NotFound();
+            }
+            Employer? dbEmployer = await _db.Employers.Include(x => x.Position).FirstOrDefaultAsync(x=>x.Id==id);
+            if (dbEmployer == null)
+            {
+                return BadRequest();
+            }
+            return View(dbEmployer);
         }
         #endregion
 

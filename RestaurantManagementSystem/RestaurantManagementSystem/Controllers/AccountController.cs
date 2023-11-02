@@ -35,7 +35,7 @@ namespace RestaurantManagementSystem.Controllers
             if (!ModelState.IsValid)
                 return View();
 
-            AppUser user = await _userManager.FindByNameAsync(loginVM.Username);
+            AppUser? user = await _userManager.FindByNameAsync(loginVM.Username);
             if (user == null)
             {
                 ModelState.AddModelError("name", "İstifadəçi adı və ya şifrə yanlışdır!");
