@@ -1,0 +1,32 @@
+﻿@model Position
+
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="card mb-4">
+            <div class="card-header d-flex justify-content-between align-items-center">
+                <h5 class="mb-0">İŞÇİ ƏLAVƏ ET</h5>
+
+            </div>
+            <div class="card-body">
+                <form method="post" >
+
+
+                    <div class="mb-3 form-group">
+                        <label asp-for="Name" class="form-label">Ad</label>
+                        <input asp-for="Name" class="form-control" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary">Əlavə Et</button>
+                    <a asp-action="Index" class="btn btn-danger">GERI</a>
+                </form>
+            </div>
+        </div>
+    </div>
+
+</div>
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
+
