@@ -205,5 +205,56 @@ namespace RestaurantManagementSystem.Controllers
         }
         #endregion
 
+        #region ResetPassword
+        public async Task<IActionResult> ResetPassword(string id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            AppUser? user = await _userManager.Users.FirstOrDefaultAsync(x => x.Id == id);
+
+            if (user == null)
+            {
+                return BadRequest();
+            }
+
+            return View();
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> ResetPassword(string id, ResetPasswordVM resetPasswordVM)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            AppUser? user = await _userManager.Users.FirstOrDefaultAsync(x => x.Id == id);
+
+            if (user == null)
+            {
+                return BadRequest();
+            }
+
+            var token = await _userManager.GeneratePasswordResetTokenAsync(user);
+            var result = await _userManager.ResetPasswordAsync(user, token, resetPasswordVM.Password);
+
+            if (!result.Succeeded)
+            {
+                foreach (var error in result.Errors)
+                {
+                    ModelState.AddModelError("", error.Description);
+                }
+
+                return View();
+            }
+
+            return RedirectToAction("Index", "Dashboard");
+        }
+        #endregion
+
     }
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "V0rMiP1bMexIKZyhd86vMIwQa42xSKdymM3MH3FwWh8=",
+  "Hash": "Ypr1nZSOMDvHZez+mwZ9StNU6NXOvmt9xDy6WRDJjCg=",
   "Source": "RestaurantManagementSystem",
   "BasePath": "_content/RestaurantManagementSystem",
   "Mode": "Default",
@@ -253,6 +253,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\maps\\jquery-jvectormap-2.0.3.css"
+    },
+    {
+      "Identity": "C:\\Users\\elsha\\OneDrive\\Desktop\\RestaurantManagementSystem\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\images\\08213a1b-916a-479a-bd11-77b0cd91b197picture.jpg",
+      "SourceId": "RestaurantManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\elsha\\OneDrive\\Desktop\\RestaurantManagementSystem\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\",
+      "BasePath": "_content/RestaurantManagementSystem",
+      "RelativePath": "images/08213a1b-916a-479a-bd11-77b0cd91b197picture.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\08213a1b-916a-479a-bd11-77b0cd91b197picture.jpg"
     },
     {
       "Identity": "C:\\Users\\elsha\\OneDrive\\Desktop\\RestaurantManagementSystem\\RestaurantManagementSystem\\RestaurantManagementSystem\\wwwroot\\images\\160d58f3-f55e-4343-85a6-8c4feaf0c74aac941707-60e0-4655-9adc-cbac7efd62d8ashpaz.webp",

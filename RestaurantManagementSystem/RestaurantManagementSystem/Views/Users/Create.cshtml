@@ -1,66 +1,85 @@
 ﻿@model CreateVM
 
-<div class="col-md-6">
-    <div class="card shadow mb-4">
-        <div class="card-header">
-            <strong class="card-title">Create User</strong>
+
+<div class="x_content">
+
+    <div asp-validation-summary="ModelOnly" style="color:red"></div>
+
+    <form method="post" class="form-horizontal form-label-left" novalidate>
+
+        <span class="section">İstifadəçi yarat</span>
+
+    
+        <div class="item form-group">
+            <label class="control-label col-md-3 col-sm-3 col-xs-12"></label>
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <input asp-for="Name" class="form-control col-md-7 col-xs-12" placeholder="Ad">
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
         </div>
-        <div class="card-body">
-            <div asp-validation-summary="ModelOnly" style="color:red"></div>
-            <form method="post">
 
-                <div class="form-group">
-                    <label asp-for="Name"></label>
-                    <input asp-for="Name" class="form-control">
-                    <span class="text-danger" asp-validation-for="Name"></span>
-                </div>
 
-                <div class="form-group">
-                    <label asp-for="Surname"></label>
-                    <input asp-for="Surname" class="form-control">
-                    <span class="text-danger" asp-validation-for="Surname"></span>
-                </div>
-
-                <div class="form-group">
-                    <label asp-for="Username"></label>
-                    <input asp-for="Username" class="form-control">
-                    <span class="text-danger" asp-validation-for="Username"></span>
-                </div>
-
-                <div class="form-group">
-                    <label>Role select</label>
-                    <select class="form-control" name="role">
-                       @foreach (string role in ViewBag.Roles)
-                        {
-                            <option value="@role">@role</option>
-                        }
-                    </select>
-                </div>
-
-                <div class="form-group">
-                    <label asp-for="Email"></label>
-                    <input asp-for="Email" class="form-control">
-                    <span class="text-danger" asp-validation-for="Email"></span>
-                </div>
-
-                <div class="form-group">
-                    <label asp-for="Password"></label>
-                    <input asp-for="Password" class="form-control">
-                    <span class="text-danger" asp-validation-for="Password"></span>
-                </div>
-
-                <div class="form-group">
-                    <label asp-for="CheckPassword"></label>
-                    <input asp-for="CheckPassword" class="form-control">
-                    <span class="text-danger" asp-validation-for="CheckPassword"></span>
-                </div>
-              
-                <button type="submit" class="btn btn-primary">Submit</button>
-                <a class="btn btn-secondary text-white mr-2" asp-action="Index">Go Back</a>
-
-            </form>
+        <div class="item form-group">
+            <label class="control-label col-md-3 col-sm-3 col-xs-12"></label>
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <input asp-for="Surname" class="form-control col-md-7 col-xs-12" placeholder="Soyad">
+                <span asp-validation-for="Surname" class="text-danger"></span>
+            </div>
         </div>
-    </div>
+
+
+        <div class="item form-group">
+            <label class="control-label col-md-3 col-sm-3 col-xs-12"></label>
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <input asp-for="Username" class="form-control col-md-7 col-xs-12" placeholder="İstifadəçi adı">
+                <span asp-validation-for="Username" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="item form-group">
+            <label class="control-label col-md-3 col-sm-3 col-xs-12"></label>
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <select class="form-control" name="role">
+                    @foreach (string role in ViewBag.Roles)
+                    {
+                        <option value="@role">@role</option>
+                    }
+                </select>
+            </div>
+        </div>
+
+        <div class="item form-group">
+            <label class="control-label col-md-3 col-sm-3 col-xs-12"></label>
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <input asp-for="Email" class="form-control col-md-7 col-xs-12" placeholder="Email">
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="item form-group">
+            <label class="control-label col-md-3 col-sm-3 col-xs-12"></label>
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <input asp-for="Password" class="form-control col-md-7 col-xs-12" placeholder="Şifrə">
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="item form-group">
+            <label class="control-label col-md-3 col-sm-3 col-xs-12"></label>
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <input asp-for="CheckPassword" class="form-control col-md-7 col-xs-12" placeholder="Yenidən şifrə">
+                <span asp-validation-for="CheckPassword" class="text-danger"></span>
+            </div>
+        </div>
+     
+        <div class="ln_solid"></div>
+        <div class="form-group">
+            <div class="col-md-6 col-md-offset-3">
+                <a asp-action="Index" class="btn btn-primary">Geri</a>
+                <button type="submit" class="btn btn-success">Əlavə Et</button>
+            </div>
+        </div>
+    </form>
 </div>
 @section Scripts{
     <partial name="_ValidationScriptsPartial" />
